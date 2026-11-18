@@ -4,7 +4,7 @@
 
 ---
 
-## 👩‍🎓 Identitas Mahasiswa
+## Identitas Mahasiswa
 * **Nama:** Nikah Suchia Panjaitan
 * **NIM:** 12S24041
 * **Program Studi:** Sarjana Sistem Informasi
@@ -16,7 +16,7 @@
 
 ---
 
-## 🔑 Kredensial Akun Uji Pustakawan (Sesuai Modul)
+## Kredensial Akun Uji Pustakawan (Sesuai Modul)
 * **URL Login:** `http://127.0.0.1:8000/login`
 * **Email:** `pustakawan@del.ac.id`
 * **Password:** `password123`
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌟 Spesifikasi & Fitur yang Diimplementasikan (Tahap 2)
+## Spesifikasi & Fitur yang Diimplementasikan (Tahap 2)
 
 ### 1. Skema Tabel Transaksi Sirkulasi (`peminjamans`) & Relasi Eloquent
 * Membuat migration tabel `peminjamans`:
@@ -84,7 +84,7 @@
 
 ---
 
-## 🧪 Hasil Pengujian Otomatis (Automated Testing)
+## Hasil Pengujian Otomatis (Automated Testing)
 
 Seluruh fungsionalitas Minggu 5 dan Minggu 6 telah diuji dan diverifikasi menggunakan PHPUnit / Pest Feature Tests:
 ```powershell
